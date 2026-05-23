@@ -2,7 +2,7 @@
 
 This is a beginner Python project I built after completing Kaggle Learn Python.
 
-## What it does
+# What it does
 
 - Stores assignment scores in a list
 - Calculates the average score
